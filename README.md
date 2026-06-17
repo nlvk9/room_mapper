@@ -13,5 +13,3 @@ The system uses a distance sensor mounted on a pan/tilt servo mechanism to sweep
 - Change detection between reference and live scans (moved/new/missing objects)
 - Real-time Python visualizer for viewing scan data as a 3D map
 - Stores old distance readings and compares to new ones to determine if objects have moved/been placed.
-
-## Project Structure
